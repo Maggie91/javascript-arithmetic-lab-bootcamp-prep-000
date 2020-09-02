@@ -7,9 +7,9 @@ function subtract(){
 }
 
 function multiply(){
-  return 2 * 3.4
+  return (2 * 3.4)
 }
 
 function divide(){
-  return 5.0 / 2.5
+  return (5.0 / 2.5)
 }
